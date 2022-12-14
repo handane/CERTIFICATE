@@ -1,4 +1,6 @@
 # MyProgress
+![dicoding dasar web_page-0002](https://user-images.githubusercontent.com/89894421/207649654-edac2097-816f-4121-bd8a-6dc7b1e8bfd2.jpg)
+
 this repository contains my learning experiences in dicoding
 
 **01 Desember 2022**  
